@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"text","text":"Training","id":"8c998f8888b95265","x":-200,"y":-280,"width":250,"height":60},
+		{"type":"text","text":"when","id":"9ab1e48e18e177be","x":-302,"y":-140,"width":102,"height":60},
+		{"type":"text","text":"which","id":"22132eb6d4750300","x":-120,"y":-140,"width":115,"height":60},
+		{"type":"text","text":"how","id":"63f369044d90e0c2","x":50,"y":-140,"width":101,"height":60},
+		{"type":"text","text":"who","id":"2b219e912fd38f0c","x":220,"y":-140,"width":85,"height":60},
+		{"type":"text","text":"Need to grow","id":"44332d09eb7441c7","x":-941,"y":13,"width":166,"height":60},
+		{"type":"text","text":"why","id":"4e5bfb01122dfb78","x":-929,"y":-171,"width":100,"height":60},
+		{"type":"text","text":"Improve Organisation Performance","id":"8d852e0473429cce","x":-1240,"y":139,"width":250,"height":60},
+		{"type":"text","text":"Area / dept","id":"cf257cbf3be8c7f2","x":-934,"y":199,"width":152,"height":60},
+		{"type":"text","text":"Individual","id":"49c28440a21ffd01","x":-680,"y":139,"width":136,"height":60}
+	],
+	"edges":[
+		{"id":"62cc6db3621e43de","fromNode":"8c998f8888b95265","fromSide":"bottom","toNode":"4e5bfb01122dfb78","toSide":"top"},
+		{"id":"5c74b4ace998b9f8","fromNode":"8c998f8888b95265","fromSide":"bottom","toNode":"9ab1e48e18e177be","toSide":"top"},
+		{"id":"a46055e7631be9bd","fromNode":"8c998f8888b95265","fromSide":"bottom","toNode":"22132eb6d4750300","toSide":"top"},
+		{"id":"6e3dc013a2a802e4","fromNode":"8c998f8888b95265","fromSide":"bottom","toNode":"63f369044d90e0c2","toSide":"top"},
+		{"id":"26632b57c3b70ec4","fromNode":"8c998f8888b95265","fromSide":"bottom","toNode":"2b219e912fd38f0c","toSide":"top"},
+		{"id":"6b9790a893830a68","fromNode":"44332d09eb7441c7","fromSide":"bottom","toNode":"8d852e0473429cce","toSide":"top"},
+		{"id":"26706b96b6661fc3","fromNode":"44332d09eb7441c7","fromSide":"bottom","toNode":"cf257cbf3be8c7f2","toSide":"top"},
+		{"id":"ec8f85acbab07419","fromNode":"44332d09eb7441c7","fromSide":"bottom","toNode":"49c28440a21ffd01","toSide":"top"},
+		{"id":"d1391026bef50f4b","fromNode":"4e5bfb01122dfb78","fromSide":"bottom","toNode":"44332d09eb7441c7","toSide":"top"}
+	]
+}

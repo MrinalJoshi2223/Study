@@ -1,0 +1,8 @@
+- Authenticity of early age business
+- Early business without internet approach
+- Customer value and satisfaction
+- when market shifted towards mordern age it was more towards mass production
+- Branding is very important for any business
+- 3S should be followed, namely Sustainablity, Scalablity and survival of business
+- if the Business focus on productive the profitablity will be easy to achive
+- Always analyise and take calculated risks

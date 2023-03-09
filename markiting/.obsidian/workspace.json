@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "180ec29267a04362",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdddfc7f0e2323d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd24934c2ca01b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assignment/New trends in marketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "591b41dc0c503c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assignment/index of assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8f180ed265afc6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assignment/index of assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd0c5a45c4322c0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tec in marketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7ba00763b8b90d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ef74fa6f5794f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fca17fe985f698e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a293e87ec1b2fcd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e72195f774556e0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a853c14c1fa6fb79",
+    "type": "split",
+    "children": [
+      {
+        "id": "28dc9909d223a73e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60a7141dd283db93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tec in marketing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7692460051bb67ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tec in marketing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da06b09a79257468",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f27e039803106aed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tec in marketing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bd0c5a45c4322c0a",
+  "lastOpenFiles": [
+    "assignment/tec/Technology and customer relationship.pptx",
+    "assignment/tec/~$Technology and customer relationship.pptx",
+    "assignment/tec/Media1.mp4",
+    "assignment/tec/video-conference-tools-b0d4ff-01.png",
+    "assignment/tec/DIGITAL-IN-2018-006-SHARE-OF-WEB-TRAFFIC-BY-DEVICE-V1.00.png",
+    "assignment/tec/B2C.png",
+    "assignment/index of assignment.md",
+    "tec in marketing.md",
+    "assignment/New trends in marketing.md",
+    "class notes/Module 3.md"
+  ]
+}

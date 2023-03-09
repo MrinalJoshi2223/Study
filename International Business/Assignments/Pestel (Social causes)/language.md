@@ -1,0 +1,5 @@
+- “Kit Kat” ---->  "you will surely win"
+- "Coca-Cola" ----->   “female horse fastened with wax” and “bite the wax tadpole.”
+- “finger licking good” ----->  "eat your fingers off"
+- “Pepsi brings you back to life”  ----> “Pepsi brings your ancestors back from the grave”
+- Mercedes Benz as “Bensi” ----> "rush to die"

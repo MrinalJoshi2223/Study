@@ -1,0 +1,5 @@
+- Shrimp Burger – China (KFC)
+- Vegetable Strips – India (KFC)
+- Hong Kong – Sausage and Egg Twisty Pasta (McD)
+- India – Chicken Maharaja Burger (McD)
+- Pan Sandwich – Brazil (pizza hut)

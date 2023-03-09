@@ -1,0 +1,7 @@
+- Effect of profit maximisation by today's business
+- Barter System
+- System of India if British not colonised
+- When market shifted from early age to mordern age it was towards selling goods
+- As long as business / organisation values customer it'll exist for a long time
+- There is no formula for sucess
+- Money is the root of all activities - Chanakya

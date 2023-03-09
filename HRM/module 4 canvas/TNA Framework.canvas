@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"type":"text","text":"ORganization Analysis","id":"a38f547e12685afa","x":-141,"y":-248,"width":250,"height":60},
+		{"type":"text","text":"Person Analysis","id":"133211ca272164da","x":-141,"y":40,"width":250,"height":60},
+		{"type":"text","text":"Operational Analysis","id":"f6c9c2d4aa345911","x":-141,"y":-106,"width":250,"height":60},
+		{"type":"text","text":"Performance gap","id":"b2ce8b81f95923c0","x":-580,"y":-106,"width":250,"height":60},
+		{"type":"text","text":"Identify Performance Discerpancy and its causes","id":"73b4981c0bee0de1","x":300,"y":-119,"width":250,"height":86},
+		{"type":"text","text":"Training Needs","id":"a4d05a1c2b518b03","x":657,"y":-218,"width":250,"height":60},
+		{"type":"text","text":"Non-Training Needs","id":"e0124e74a96ffd51","x":657,"y":10,"width":250,"height":60},
+		{"type":"text","text":"# TNA Framework","id":"fd6e7f20cbc4112d","x":-16,"y":-500,"width":386,"height":80}
+	],
+	"edges":[
+		{"id":"a156f1f8331480ad","fromNode":"73b4981c0bee0de1","fromSide":"right","toNode":"a4d05a1c2b518b03","toSide":"left"},
+		{"id":"73e5c39d48a56fce","fromNode":"73b4981c0bee0de1","fromSide":"right","toNode":"e0124e74a96ffd51","toSide":"left"},
+		{"id":"59e69fd5ebb05d4e","fromNode":"a38f547e12685afa","fromSide":"right","toNode":"73b4981c0bee0de1","toSide":"left"},
+		{"id":"0f811f6454dfc949","fromNode":"133211ca272164da","fromSide":"right","toNode":"73b4981c0bee0de1","toSide":"left"},
+		{"id":"46803473be7f0f18","fromNode":"f6c9c2d4aa345911","fromSide":"right","toNode":"73b4981c0bee0de1","toSide":"left"},
+		{"id":"cb73293899a5c0dd","fromNode":"b2ce8b81f95923c0","fromSide":"right","toNode":"f6c9c2d4aa345911","toSide":"left"},
+		{"id":"552fc99f18b477ab","fromNode":"b2ce8b81f95923c0","fromSide":"right","toNode":"a38f547e12685afa","toSide":"left"},
+		{"id":"669ba0543e4b24cf","fromNode":"b2ce8b81f95923c0","fromSide":"right","toNode":"133211ca272164da","toSide":"left"}
+	]
+}

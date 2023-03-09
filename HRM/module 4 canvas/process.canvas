@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"text","text":"New Employes","id":"71916301bfa65cb3","x":-817,"y":-216,"width":250,"height":60},
+		{"type":"text","text":"Unskilled employes","id":"7ab63283da3c4338","x":-817,"y":-101,"width":250,"height":60},
+		{"type":"text","text":"Potential emp","id":"71d8b0137008337e","x":-817,"y":32,"width":250,"height":60},
+		{"type":"text","text":"Skilled emp","id":"8909ba0fe618dc35","x":-82,"y":-101,"width":250,"height":60},
+		{"type":"text","text":"Motivated & commited Employees","id":"cffe2809b1533956","x":-80,"y":-216,"width":250,"height":60},
+		{"type":"text","text":"Competent emp","id":"3eba49240dfbc308","x":-80,"y":32,"width":250,"height":60},
+		{"type":"text","text":"T&D Program","id":"8d69d684f44bedf9","x":-462,"y":-216,"width":250,"height":308},
+		{"type":"text","text":"*output*","id":"c41d41efad96fa3d","x":-80,"y":182,"width":250,"height":60},
+		{"type":"text","text":"*Input*","id":"5ea339511726ef17","x":-817,"y":182,"width":250,"height":60},
+		{"type":"text","text":"**Process**","id":"2599cc68ec9d047d","x":-462,"y":182,"width":250,"height":60},
+		{"type":"file","file":"image/Pasted image 20230303094641.png","id":"4b06d3f5947317f3","x":320,"y":-216,"width":400,"height":66},
+		{"type":"file","file":"image/Pasted image 20230303094704.png","id":"4a5c1f12e29711e1","x":320,"y":-89,"width":400,"height":37},
+		{"type":"file","file":"image/Pasted image 20230303094736.png","id":"c5b27ab145239144","x":320,"y":46,"width":398,"height":33}
+	],
+	"edges":[
+		{"id":"338dd798e1e518b0","fromNode":"71916301bfa65cb3","fromSide":"right","toNode":"8d69d684f44bedf9","toSide":"left"},
+		{"id":"5f271af1018aa807","fromNode":"7ab63283da3c4338","fromSide":"right","toNode":"8d69d684f44bedf9","toSide":"left"},
+		{"id":"be6d5190712e4eb0","fromNode":"71d8b0137008337e","fromSide":"right","toNode":"8d69d684f44bedf9","toSide":"left"},
+		{"id":"cdfa5ef84141cde8","fromNode":"8d69d684f44bedf9","fromSide":"right","toNode":"8909ba0fe618dc35","toSide":"left"},
+		{"id":"fccfe2b886ed1b0b","fromNode":"8d69d684f44bedf9","fromSide":"right","toNode":"cffe2809b1533956","toSide":"left"},
+		{"id":"47b19ebd4e82b140","fromNode":"8d69d684f44bedf9","fromSide":"right","toNode":"3eba49240dfbc308","toSide":"left"},
+		{"id":"c3b67fc09f5c6adb","fromNode":"cffe2809b1533956","fromSide":"right","toNode":"4b06d3f5947317f3","toSide":"left"},
+		{"id":"32717eb1122723ae","fromNode":"8909ba0fe618dc35","fromSide":"right","toNode":"4a5c1f12e29711e1","toSide":"left"},
+		{"id":"ed64d7afc592bf60","fromNode":"3eba49240dfbc308","fromSide":"right","toNode":"c5b27ab145239144","toSide":"left"}
+	]
+}

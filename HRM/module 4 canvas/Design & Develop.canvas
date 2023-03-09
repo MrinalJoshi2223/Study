@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Design & Develop","id":"23b1f90e49c29128","x":-260,"y":-400,"width":426,"height":60,"color":"3"},
+		{"type":"text","text":"## Assessment","id":"0fb5401b12991ed2","x":-680,"y":-322,"width":280,"height":60,"color":"1"},
+		{"type":"file","file":"image/Pasted image 20230303095758.png","id":"8eb25d4b7ba3ea30","x":-200,"y":-290,"width":320,"height":619,"color":"3"},
+		{"type":"file","file":"image/Pasted image 20230303095823.png","id":"84dd7c5677576be9","x":-740,"y":-160,"width":400,"height":276,"color":"1"},
+		{"type":"text","text":"Deliver the program","id":"eb86a121f8b102c2","x":240,"y":-40,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"## Implement","id":"77e6e169a05a8d40","x":240,"y":-320,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"## Evaluation","id":"bf9671138e27274b","x":896,"y":-322,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Training outcomes","id":"6c1c299631f76c81","x":896,"y":-40,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Learning","id":"998d98df6a277cd6","x":840,"y":170,"width":137,"height":60,"color":"5"},
+		{"type":"text","text":"Behaviour","id":"719026bde316542b","x":1076,"y":170,"width":140,"height":60,"color":"5"},
+		{"type":"text","text":"Result","id":"4ec6d336ab1b3ad8","x":1276,"y":170,"width":100,"height":60,"color":"5"},
+		{"type":"text","text":"**RLBR**\n**R:** Reactions\n**L :** Learning\n**B :** Behaviour\n**R :** Results","id":"711040b012de83de","x":1376,"y":279,"width":156,"height":181,"color":"5"},
+		{"type":"text","text":"Training Evaluation\n## Kirkpatrick's Model of Evaluation","id":"2a7efb89eefa34cd","x":869,"y":420,"width":303,"height":209,"color":"5"},
+		{"type":"text","text":"Reactions ","id":"1370dd7c481d60bd","x":640,"y":170,"width":135,"height":60,"color":"5"},
+		{"type":"file","file":"image/kirkpatrick-evaluation-model.png","id":"6ec9feeda558f150","x":1376,"y":580,"width":584,"height":357,"color":"5"}
+	],
+	"edges":[
+		{"id":"543668f849ddf3a8","fromNode":"84dd7c5677576be9","fromSide":"right","toNode":"8eb25d4b7ba3ea30","toSide":"left"},
+		{"id":"63c18008d2e70e56","fromNode":"8eb25d4b7ba3ea30","fromSide":"right","toNode":"eb86a121f8b102c2","toSide":"left"},
+		{"id":"6712a841b894e1c4","fromNode":"eb86a121f8b102c2","fromSide":"right","toNode":"6c1c299631f76c81","toSide":"left"},
+		{"id":"9976a22f2afc1229","fromNode":"6c1c299631f76c81","fromSide":"bottom","toNode":"1370dd7c481d60bd","toSide":"top"},
+		{"id":"4f766bbc1dce4a23","fromNode":"6c1c299631f76c81","fromSide":"bottom","toNode":"998d98df6a277cd6","toSide":"top"},
+		{"id":"85299676b8625539","fromNode":"6c1c299631f76c81","fromSide":"bottom","toNode":"719026bde316542b","toSide":"top"},
+		{"id":"3b9b9a70e45501aa","fromNode":"6c1c299631f76c81","fromSide":"bottom","toNode":"4ec6d336ab1b3ad8","toSide":"top"},
+		{"id":"2778793da1dc2b22","fromNode":"1370dd7c481d60bd","fromSide":"bottom","toNode":"2a7efb89eefa34cd","toSide":"top"},
+		{"id":"982242194d847f08","fromNode":"998d98df6a277cd6","fromSide":"bottom","toNode":"2a7efb89eefa34cd","toSide":"top"},
+		{"id":"f298db616dacbadf","fromNode":"719026bde316542b","fromSide":"bottom","toNode":"2a7efb89eefa34cd","toSide":"top"},
+		{"id":"ad546019dd49f22c","fromNode":"4ec6d336ab1b3ad8","fromSide":"bottom","toNode":"2a7efb89eefa34cd","toSide":"top"}
+	]
+}

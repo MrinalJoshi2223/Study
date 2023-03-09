@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "c8825cae45078bcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7797f6c3bee895e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "361c2b3004891f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09-03-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e8d8715d6235bef",
+    "type": "split",
+    "children": [
+      {
+        "id": "651006e58def6b18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a073394d606f0b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c517040ac5f95b7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c4f55ac44252ef6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4bf860c5495e5ab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6b1e91d7364a076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d815dd2a6d63a51d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "09-03-2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29b32667c92e46d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "09-03-2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cf23a4f1e49ca03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a73675d5cec544d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "09-03-2023.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "361c2b3004891f1b",
+  "lastOpenFiles": [
+    "06-03-2023.md",
+    "syllabus/22PGD202-CF.pdf",
+    "09-03-2023.md",
+    "syllabus/mso5B42.tmp",
+    "syllabus",
+    "New folder",
+    "personal notes/Module 2/Time value of money Index.md",
+    "20-02-2023.md",
+    "images",
+    "images/Pasted image 20230306121150.png",
+    "personal notes/Module 2/Compounding.md",
+    "personal notes/Introduction to Financial Management.md",
+    "index.jpg",
+    "assignments/poster one.md",
+    "Job analysis.md",
+    "Job Analysis Process.canvas",
+    "Pasted image 20230214114856.png"
+  ]
+}

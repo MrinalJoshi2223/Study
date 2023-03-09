@@ -1,0 +1,2 @@
+- First activity (without marks) - in ppt inside folder no notes
+- First assignment - [[New trends in marketing]]
