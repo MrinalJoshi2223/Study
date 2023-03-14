@@ -8,18 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "361c2b3004891f1b",
+            "id": "38f10830c8350ee4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -16.401997062696232,
+                  "y": 236.8418568422718,
+                  "zoom": -0.7119085070242485
+                }
+              }
+            }
+          },
+          {
+            "id": "28d7ae0d2ba2a4ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-03-2023.md",
+                "file": "13-03-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "141f171074fb9aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-03-2023.md",
+                "file": "13-03-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09-03-2023.md",
+                "file": "13-03-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-03-2023.md"
+                "file": "13-03-2023.md"
               }
             }
           }
@@ -146,18 +174,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "361c2b3004891f1b",
+  "active": "28d7ae0d2ba2a4ab",
   "lastOpenFiles": [
+    "projects/mrinal joshi 221028 co-1.docx",
+    "projects",
+    "New folder",
+    "raw.md",
+    "13-03-2023.md",
+    "images/Pasted image 20230306121150.png",
+    "Untitled.canvas",
     "06-03-2023.md",
-    "syllabus/22PGD202-CF.pdf",
     "09-03-2023.md",
+    "syllabus/22PGD202-CF.pdf",
     "syllabus/mso5B42.tmp",
     "syllabus",
-    "New folder",
     "personal notes/Module 2/Time value of money Index.md",
     "20-02-2023.md",
     "images",
-    "images/Pasted image 20230306121150.png",
     "personal notes/Module 2/Compounding.md",
     "personal notes/Introduction to Financial Management.md",
     "index.jpg",

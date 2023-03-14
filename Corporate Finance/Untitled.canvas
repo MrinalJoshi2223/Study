@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"a47abba7410cc9cd","x":-205,"y":-353,"width":250,"height":60,"color":"4","type":"text","text":"sales"},
+		{"id":"83efeb0d682c9439","x":-205,"y":-280,"width":250,"height":60,"color":"4","type":"text","text":"Variable cost"},
+		{"id":"70e23bcb4a7404cc","x":-260,"y":-210,"width":360,"height":50,"color":"6","type":"text","text":"---"},
+		{"id":"5e36d1c8e8afbb89","x":-205,"y":-140,"width":250,"height":60,"color":"4","type":"text","text":"contribution"},
+		{"id":"0a395a2115c9e17d","x":-205,"y":-60,"width":250,"height":60,"color":"4","type":"text","text":"FC (Fixed cost)"},
+		{"type":"text","text":"---","id":"e737390a1e17d879","x":-260,"y":30,"width":360,"height":50,"color":"6"},
+		{"id":"1850796f25eac1c4","x":-205,"y":109,"width":250,"height":50,"color":"4","type":"text","text":"EBIT"},
+		{"id":"2278dc386b09d303","x":-205,"y":180,"width":250,"height":60,"color":"4","type":"text","text":"TAX"},
+		{"type":"text","text":"---","id":"3b88a32c94f71539","x":-260,"y":265,"width":360,"height":50,"color":"6"},
+		{"id":"8071c741f87c39ac","x":-205,"y":340,"width":250,"height":60,"color":"4","type":"text","text":"EAT(Earning after tax)"},
+		{"id":"d7568743cbf5e0e8","x":-205,"y":420,"width":250,"height":60,"color":"4","type":"text","text":"PD"},
+		{"type":"text","text":"---","id":"11fe7e538c07cee9","x":-260,"y":500,"width":360,"height":50,"color":"6"},
+		{"id":"450ed68a16eb6fe0","x":-205,"y":580,"width":250,"height":60,"color":"4","type":"text","text":"EASH"},
+		{"id":"ca826f79714fdaab","x":-440,"y":-280,"width":136,"height":60,"color":"1","type":"text","text":"Substract"},
+		{"type":"text","text":"Substract","id":"e0ac149edf4b7050","x":-440,"y":-60,"width":136,"height":60,"color":"1"},
+		{"type":"text","text":"Substract","id":"cbe15db4cbf2af7a","x":-440,"y":180,"width":136,"height":60,"color":"1"},
+		{"type":"text","text":"Substract","id":"6f10d307ac51e04c","x":-440,"y":420,"width":136,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"64ef8a8bf6ac7407","fromNode":"a47abba7410cc9cd","fromSide":"bottom","toNode":"83efeb0d682c9439","toSide":"top"},
+		{"id":"a65e4541dedd2446","fromNode":"83efeb0d682c9439","fromSide":"bottom","toNode":"5e36d1c8e8afbb89","toSide":"top"},
+		{"id":"5307b4333c1313c5","fromNode":"5e36d1c8e8afbb89","fromSide":"bottom","toNode":"0a395a2115c9e17d","toSide":"top"},
+		{"id":"eb570adc67a856fb","fromNode":"0a395a2115c9e17d","fromSide":"bottom","toNode":"1850796f25eac1c4","toSide":"top"},
+		{"id":"010aa6f1dda7cb6e","fromNode":"1850796f25eac1c4","fromSide":"bottom","toNode":"2278dc386b09d303","toSide":"top"},
+		{"id":"21c0130c3cb29ba3","fromNode":"2278dc386b09d303","fromSide":"bottom","toNode":"8071c741f87c39ac","toSide":"top"},
+		{"id":"044e77b955cd296c","fromNode":"8071c741f87c39ac","fromSide":"bottom","toNode":"d7568743cbf5e0e8","toSide":"top"},
+		{"id":"f69d185d7efda0a3","fromNode":"d7568743cbf5e0e8","fromSide":"bottom","toNode":"450ed68a16eb6fe0","toSide":"top"}
+	]
+}

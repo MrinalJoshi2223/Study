@@ -33,19 +33,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5500eb653833ae69",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,23 +162,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5500eb653833ae69",
+  "active": "e64c3f183556fc56",
   "lastOpenFiles": [
     "module 4 canvas/Design & Develop.canvas",
+    "module 4 canvas/process.canvas",
+    "module 4 canvas/TNA Framework.canvas",
+    "module 4 canvas/training why when.canvas",
+    "module 4 canvas/Traning Method.canvas",
     "Module 4.md",
     "image/WhatsApp Image 2023-03-03 at 10.51.45 AM.jpeg",
     "image/kirkpatrick-evaluation-model.png",
-    "module 4 canvas/TNA Framework.canvas",
-    "module 4 canvas/Traning Method.canvas",
     "WhatsApp Image 2023-03-03 at 10.40.17 AM.jpeg",
     "Job analysis.md",
     "Job Analysis Process.canvas",
     "image/WhatsApp Image 2023-03-03 at 10.40.17 AM 1.jpeg",
     "image/WhatsApp Image 2023-03-03 at 10.40.17 AM.jpeg",
-    "module 4 canvas/training why when.canvas",
     "image/Pasted image 20230303095823.png",
     "image/Pasted image 20230303095758.png",
-    "module 4 canvas/process.canvas",
     "module 4 canvas",
     "image/Pasted image 20230303094736.png",
     "image/Pasted image 20230303094704.png",

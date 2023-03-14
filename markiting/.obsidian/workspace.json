@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd24934c2ca01b49",
+            "id": "2b0022bba259f2af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assignment/New trends in marketing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "591b41dc0c503c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "assignment/index of assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8f180ed265afc6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "assignment/index of assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd0c5a45c4322c0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tec in marketing.md",
+                "file": "10-03-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tec in marketing.md",
+                "file": "10-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tec in marketing.md",
+                "file": "10-03-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tec in marketing.md"
+                "file": "10-03-23.md"
               }
             }
           }
@@ -183,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd0c5a45c4322c0a",
+  "active": "2b0022bba259f2af",
   "lastOpenFiles": [
+    "Pasted image 20230310151353.png",
+    "Pasted image 20230310151334.png",
+    "Pasted image 20230310151319.png",
+    "tec in marketing.md",
+    "10-03-23.md",
     "assignment/tec/Technology and customer relationship.pptx",
     "assignment/tec/~$Technology and customer relationship.pptx",
     "assignment/tec/Media1.mp4",
@@ -192,7 +160,6 @@
     "assignment/tec/DIGITAL-IN-2018-006-SHARE-OF-WEB-TRAFFIC-BY-DEVICE-V1.00.png",
     "assignment/tec/B2C.png",
     "assignment/index of assignment.md",
-    "tec in marketing.md",
     "assignment/New trends in marketing.md",
     "class notes/Module 3.md"
   ]
