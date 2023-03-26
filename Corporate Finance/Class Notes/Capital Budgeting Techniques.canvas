@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"text","text":"Traditional or Non-Discounted Cash flow ","id":"2cdf655e2f4442b6","x":-579,"y":-249,"width":250,"height":60},
+		{"id":"4ae1ada47ebe452a","x":-800,"y":-30,"width":250,"height":60,"type":"text","text":"Payback Period"},
+		{"id":"50e1265ebdcb9346","x":-360,"y":-20,"width":250,"height":60,"type":"text","text":"Accounting rate of return"},
+		{"type":"text","text":"Capital Budgeting techniques","id":"5d537864f7f48afc","x":-110,"y":-560,"width":250,"height":60},
+		{"id":"0633a739e42a6ff2","x":353,"y":-270,"width":253,"height":103,"type":"text","text":"Discounted cash Flow (Method considering time value of money)"},
+		{"id":"6a5171aa8b37421c","x":760,"y":70,"width":250,"height":60,"type":"text","text":"Profitiability index"},
+		{"id":"d109d072eedde545","x":760,"y":-30,"width":250,"height":60,"type":"text","text":"Net peresent Value"},
+		{"id":"9ac6e2215dccc77c","x":760,"y":180,"width":250,"height":60,"type":"text","text":"Internal rate of return"},
+		{"id":"14982a3ac7d5636d","x":760,"y":300,"width":250,"height":60,"type":"text","text":"Modigied Internal Rate of return"},
+		{"id":"d4313368d90ae1dc","x":760,"y":420,"width":250,"height":60,"type":"text","text":"Discounted payback"},
+		{"id":"93f716d02602ccd3","x":760,"y":540,"width":250,"height":60,"type":"text","text":"Equivalent Annualised Benefit/cost Method"}
+	],
+	"edges":[
+		{"id":"5e5c4db5a37893b2","fromNode":"2cdf655e2f4442b6","fromSide":"bottom","toNode":"4ae1ada47ebe452a","toSide":"top"},
+		{"id":"ec16d067eddcb77f","fromNode":"2cdf655e2f4442b6","fromSide":"bottom","toNode":"50e1265ebdcb9346","toSide":"top"},
+		{"id":"15dbd3b4bff45e3e","fromNode":"5d537864f7f48afc","fromSide":"bottom","toNode":"2cdf655e2f4442b6","toSide":"top"},
+		{"id":"9f66fc87c26ab41e","fromNode":"5d537864f7f48afc","fromSide":"bottom","toNode":"0633a739e42a6ff2","toSide":"top"},
+		{"id":"9c1f42f8da46fded","fromNode":"0633a739e42a6ff2","fromSide":"bottom","toNode":"d109d072eedde545","toSide":"left"},
+		{"id":"093b5e2e2f14d5e1","fromNode":"0633a739e42a6ff2","fromSide":"bottom","toNode":"6a5171aa8b37421c","toSide":"left"},
+		{"id":"79905a5c41739f5d","fromNode":"0633a739e42a6ff2","fromSide":"bottom","toNode":"9ac6e2215dccc77c","toSide":"left"},
+		{"id":"1f02b6d646f0af70","fromNode":"0633a739e42a6ff2","fromSide":"bottom","toNode":"14982a3ac7d5636d","toSide":"left"},
+		{"id":"57d54d35e211cc78","fromNode":"0633a739e42a6ff2","fromSide":"bottom","toNode":"d4313368d90ae1dc","toSide":"left"},
+		{"id":"a65c1071ec2bde8d","fromNode":"0633a739e42a6ff2","fromSide":"bottom","toNode":"93f716d02602ccd3","toSide":"left"}
+	]
+}

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc996735f26cf1ba",
+            "id": "2176ee1bd5b599eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spss/Spss.md",
+                "file": "Projects/research praposal video.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spss/Spss.md",
+                "file": "Projects/research praposal video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spss/Spss.md",
+                "file": "Projects/research praposal video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spss/Spss.md"
+                "file": "Projects/research praposal video.md"
               }
             }
           }
@@ -140,21 +140,37 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "dc996735f26cf1ba",
+  "active": "2176ee1bd5b599eb",
   "lastOpenFiles": [
-    "Pasted image 20230314102511.png",
-    "spss/data/CR_Intro.xls",
-    "spss/data/Customer Q.docx",
-    "spss/data",
+    "class notes/Module III.md",
+    "class notes/Making a Business praposal.md",
+    "class notes/Attitude Measurement (6-3-2023).md",
+    "class notes/Research Proposal.md",
+    "class notes/Projective.canvas",
+    "class notes/Process of questionnaire Designing.canvas",
+    "class notes/Questions.md",
+    "business praposal format/Research Proposal Format.pdf",
+    "Projects/research praposal video.md",
+    "project.md",
+    "business praposal format/business praposal.pdf",
+    "business praposal format/Pasted image 20230314102511.png",
+    "business praposal format/Pasted image 20230314100811.png",
+    "class notes/varialbles in questionnare.canvas",
+    "class notes/non-comparative scale.canvas",
+    "class notes/spss/Spss.md",
+    "class notes/spss/Untitled3.sav",
+    "class notes/spss/Output5.spv",
+    "class notes/spss/data/CR_Intro.xls",
+    "class notes/spss/data/Customer Q.docx",
+    "class notes/spss/data",
     "spss/New folder",
-    "Pasted image 20230314100811.png",
     "images/Pasted image 20230314100641.png",
     "images/Pasted image 20230314100612.png",
     "images/Pasted image 20230314100454.png",
@@ -163,24 +179,12 @@
     "images/Pasted image 20230314100007.png",
     "images/Pasted image 20230314095925.png",
     "images/Pasted image 20230314095848.png",
-    "images/Pasted image 20230314094823.png",
-    "class notes/Module III.md",
-    "spss/Spss.md",
     "raw.md",
-    "project.md",
     "BRM (measurement scale).md",
-    "class notes/Research Proposal.md",
-    "class notes/non-comparative scale.canvas",
     "Projects/Likert scale.pptx",
     "Projects",
-    "New folder",
-    "ppts/Likert scale.pptx",
-    "ppts/~$Likert scale.pptx",
-    "spss",
     "README.md",
     "^.md",
-    "class notes/Attitude Measurement (6-3-2023).md",
-    "class notes/Making a Business praposal.md",
     "class notes/Untitled.canvas"
   ]
 }

@@ -1,4 +1,5 @@
 # Non-comparative scales
+- ![[non-comparative scale.canvas]]
 - Continuous rating scales
 	- *Graphic rating scales*
 	- we can also use pictorial representation for rating scale

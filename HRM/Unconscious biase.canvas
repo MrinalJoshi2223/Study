@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"9bc0ded8c0929fe3","x":-413,"y":-230,"width":125,"height":60,"type":"text","text":"Perception"},
+		{"id":"ffa736d92464dd08","x":-157,"y":-174,"width":117,"height":60,"type":"text","text":"people"},
+		{"id":"7260a9898ea358ab","x":60,"y":-174,"width":100,"height":60,"type":"text","text":"place"},
+		{"id":"ec7f1f70899a5d13","x":260,"y":-174,"width":119,"height":60,"type":"text","text":"situtaion"},
+		{"id":"351a0af4aa0be56f","x":-413,"y":-80,"width":125,"height":60,"type":"text","text":"response"}
+	],
+	"edges":[
+		{"id":"1e73a692b8d9434b","fromNode":"ffa736d92464dd08","fromSide":"right","toNode":"7260a9898ea358ab","toSide":"left"},
+		{"id":"060da84c78c5d315","fromNode":"7260a9898ea358ab","fromSide":"right","toNode":"ec7f1f70899a5d13","toSide":"left"},
+		{"id":"8b22910d90d45a78","fromNode":"9bc0ded8c0929fe3","fromSide":"right","toNode":"ffa736d92464dd08","toSide":"left"},
+		{"id":"f81febb904750045","fromNode":"351a0af4aa0be56f","fromSide":"right","toNode":"ffa736d92464dd08","toSide":"left"}
+	]
+}

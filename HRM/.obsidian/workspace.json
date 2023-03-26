@@ -8,34 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f54ef42c0e7ebdeb",
+            "id": "e64c3f183556fc56",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "module 4 canvas/Design & Develop.canvas",
+                "file": "Unconscious biase.canvas",
                 "viewState": {
-                  "x": 578.3509375,
-                  "y": 199.44749999999996,
-                  "zoom": -1.3074285251922475
+                  "x": -17,
+                  "y": -125,
+                  "zoom": 0
                 }
               }
             }
-          },
-          {
-            "id": "e64c3f183556fc56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4.md",
+                "file": "Unconscious biase.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4.md",
+                "file": "Unconscious biase.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4.md"
+                "file": "Unconscious biase.canvas"
               }
             }
           }
@@ -164,25 +151,28 @@
   },
   "active": "e64c3f183556fc56",
   "lastOpenFiles": [
-    "module 4 canvas/Design & Develop.canvas",
-    "module 4 canvas/process.canvas",
-    "module 4 canvas/TNA Framework.canvas",
-    "module 4 canvas/training why when.canvas",
-    "module 4 canvas/Traning Method.canvas",
-    "Module 4.md",
-    "image/WhatsApp Image 2023-03-03 at 10.51.45 AM.jpeg",
+    "Class notes/Performance Appraisal.md",
+    "Class notes/module 4 canvas/Traning Method.canvas",
+    "Class notes/module 4 canvas/training why when.canvas",
+    "Class notes/module 4 canvas/TNA Framework.canvas",
+    "Class notes/module 4 canvas/process.canvas",
+    "Class notes/module 4 canvas/Design & Develop.canvas",
+    "Class notes/Training and development.md",
+    "Class notes/Job Analysis Process.canvas",
     "image/kirkpatrick-evaluation-model.png",
+    "Unconscious biase.canvas",
+    "Untitled.md",
+    "Class notes",
+    "Class notes/Job analysis.md",
+    "image/WhatsApp Image 2023-03-03 at 10.51.45 AM.jpeg",
     "WhatsApp Image 2023-03-03 at 10.40.17 AM.jpeg",
-    "Job analysis.md",
-    "Job Analysis Process.canvas",
     "image/WhatsApp Image 2023-03-03 at 10.40.17 AM 1.jpeg",
     "image/WhatsApp Image 2023-03-03 at 10.40.17 AM.jpeg",
     "image/Pasted image 20230303095823.png",
     "image/Pasted image 20230303095758.png",
-    "module 4 canvas",
+    "Class notes/module 4 canvas",
     "image/Pasted image 20230303094736.png",
     "image/Pasted image 20230303094704.png",
-    "image/Pasted image 20230303094641.png",
-    "Untitled.md"
+    "image/Pasted image 20230303094641.png"
   ]
 }

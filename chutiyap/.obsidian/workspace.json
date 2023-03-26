@@ -4,31 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "e3ecec7b84f4a308",
+        "id": "228138c941871e62",
         "type": "tabs",
         "children": [
           {
-            "id": "dfb2ce85ea2ec14a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4f219bebe64bd32",
+            "id": "f3f4c9679f538c13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entrepreneur then vs now/tarun.md",
+                "file": "Samatwa/Gender pay gap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5322a3ecccb3622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samatwa/Goverment actions and what can we do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "822b7015c02938b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samatwa/data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0748a287781a3aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samatwa/PPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9380c1fd3ed4f0ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samatwa/Conclusion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entrepreneur then vs now/tarun.md",
+                "file": "Samatwa/data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entrepreneur then vs now/tarun.md",
+                "file": "Samatwa/data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entrepreneur then vs now/tarun.md"
+                "file": "Samatwa/data.md"
               }
             }
           }
@@ -155,8 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f219bebe64bd32",
+  "active": "822b7015c02938b0",
   "lastOpenFiles": [
+    "Samatwa/Gender pay gap.md",
+    "Samatwa/Goverment actions and what can we do.md",
+    "Samatwa/Conclusion.md",
+    "Samatwa/data.md",
+    "Samatwa/PPT.md",
+    "aiesec/resume.md",
+    "Samatwa",
+    "aiesec",
+    "entrepreneur then vs now/tarun.md",
     "entrepreneur then vs now/poster.pdf",
     "entrepreneur then vs now/Key Learning.md"
   ]

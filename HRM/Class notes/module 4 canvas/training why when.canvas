@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"type":"text","text":"Training","id":"8c998f8888b95265","x":-200,"y":-280,"width":250,"height":60},
 		{"type":"text","text":"when","id":"9ab1e48e18e177be","x":-302,"y":-140,"width":102,"height":60},
 		{"type":"text","text":"which","id":"22132eb6d4750300","x":-120,"y":-140,"width":115,"height":60},
 		{"type":"text","text":"how","id":"63f369044d90e0c2","x":50,"y":-140,"width":101,"height":60},
@@ -9,7 +8,8 @@
 		{"type":"text","text":"why","id":"4e5bfb01122dfb78","x":-929,"y":-171,"width":100,"height":60},
 		{"type":"text","text":"Improve Organisation Performance","id":"8d852e0473429cce","x":-1240,"y":139,"width":250,"height":60},
 		{"type":"text","text":"Area / dept","id":"cf257cbf3be8c7f2","x":-934,"y":199,"width":152,"height":60},
-		{"type":"text","text":"Individual","id":"49c28440a21ffd01","x":-680,"y":139,"width":136,"height":60}
+		{"type":"text","text":"Individual","id":"49c28440a21ffd01","x":-680,"y":139,"width":136,"height":60},
+		{"type":"text","text":"Training","id":"8c998f8888b95265","x":-99,"y":-420,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"62cc6db3621e43de","fromNode":"8c998f8888b95265","fromSide":"bottom","toNode":"4e5bfb01122dfb78","toSide":"top"},

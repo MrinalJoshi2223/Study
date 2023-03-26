@@ -4,50 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "7797f6c3bee895e2",
+        "id": "ce167611353c1ef4",
         "type": "tabs",
         "children": [
           {
-            "id": "38f10830c8350ee4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -16.401997062696232,
-                  "y": 236.8418568422718,
-                  "zoom": -0.7119085070242485
-                }
-              }
-            }
-          },
-          {
-            "id": "28d7ae0d2ba2a4ab",
+            "id": "8cf8e2bc755b0516",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13-03-2023.md",
+                "file": "Class Notes/03-20-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "141f171074fb9aa8",
+            "id": "0773f03ebbb5426f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw.md",
+                "file": "personal notes/Introduction to Financial Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "484b54a7c1cc9f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class Notes/02-20-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(NPV)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13-03-2023.md",
+                "file": "Class Notes/02-20-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13-03-2023.md",
+                "file": "Class Notes/02-20-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13-03-2023.md"
+                "file": "Class Notes/02-20-2023.md"
               }
             }
           }
@@ -174,26 +171,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28d7ae0d2ba2a4ab",
+  "active": "484b54a7c1cc9f9f",
   "lastOpenFiles": [
+    "Class Notes/03-06-2023.md",
+    "Class Notes/03-09-2023.md",
+    "Class Notes/03-13-2023.md",
+    "Class Notes/03-18-2023.md",
+    "Class Notes/03-20-2023.md",
+    "personal notes/Cost of capital.md",
+    "personal notes/Introduction to Financial Management.md",
+    "personal notes/Module 2/Time value of money Index.md",
+    "personal notes/Module 2/Compounding.md",
+    "Class Notes/Leverage.canvas",
+    "Class Notes/Capital Budgeting Techniques.canvas",
+    "raw.md",
+    "Class Notes/02-20-2023.md",
+    "resources/Time value of money.pdf",
+    "resources",
+    "images/index.jpg",
+    "Pasted image 20230318101332.png",
+    "Pasted image 20230318093942.png",
+    "Class Notes",
     "projects/mrinal joshi 221028 co-1.docx",
     "projects",
     "New folder",
-    "raw.md",
-    "13-03-2023.md",
     "images/Pasted image 20230306121150.png",
-    "Untitled.canvas",
-    "06-03-2023.md",
-    "09-03-2023.md",
     "syllabus/22PGD202-CF.pdf",
     "syllabus/mso5B42.tmp",
     "syllabus",
-    "personal notes/Module 2/Time value of money Index.md",
-    "20-02-2023.md",
     "images",
-    "personal notes/Module 2/Compounding.md",
-    "personal notes/Introduction to Financial Management.md",
-    "index.jpg",
     "assignments/poster one.md",
     "Job analysis.md",
     "Job Analysis Process.canvas",

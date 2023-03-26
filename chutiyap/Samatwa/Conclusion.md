@@ -1,0 +1,1 @@
+- as a socity we should move towards a future in which skills is more relevent to judge someone rather then there gender

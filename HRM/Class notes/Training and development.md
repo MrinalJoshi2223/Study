@@ -23,3 +23,7 @@
 ## Design and Develop
 - ![[Design & Develop.canvas]]
 - ![[kirkpatrick-evaluation-model.png]]
+
+
+
+

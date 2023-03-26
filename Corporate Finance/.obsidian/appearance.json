@@ -1,4 +1,5 @@
 {
   "accentColor": "",
-  "cssTheme": "primary"
+  "cssTheme": "primary",
+  "baseFontSize": 16
 }

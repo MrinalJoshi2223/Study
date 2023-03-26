@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"Dependent Variable\nProcess outcome","id":"9ea39ddd89efca95","x":27,"y":-203,"width":250,"height":60},
+		{"type":"text","text":"Medeating Variable","id":"e293ba873fa9306b","x":-223,"y":20,"width":250,"height":60},
+		{"type":"text","text":"Independent Variable\nERP","id":"c155bd891dbe73c7","x":-473,"y":-203,"width":250,"height":60},
+		{"type":"text","text":"Parameters","id":"be03254c5a7185d9","x":200,"y":-364,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Parameters","id":"ca69f79a694feaef","x":-515,"y":141,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Parameters","id":"3fb85ead9445fb2e","x":-660,"y":-364,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"2b67199245a99896","fromNode":"c155bd891dbe73c7","fromSide":"bottom","toNode":"e293ba873fa9306b","toSide":"left"},
+		{"id":"2d45423876bec9f8","fromNode":"e293ba873fa9306b","fromSide":"right","toNode":"9ea39ddd89efca95","toSide":"bottom"},
+		{"id":"7ff15365558d132d","fromNode":"c155bd891dbe73c7","fromSide":"right","toNode":"9ea39ddd89efca95","toSide":"left"},
+		{"id":"d7d2caa8064eb24b","fromNode":"e293ba873fa9306b","fromSide":"bottom","toNode":"ca69f79a694feaef","toSide":"top","color":"4"},
+		{"id":"1226d894b5a08801","fromNode":"3fb85ead9445fb2e","fromSide":"right","toNode":"c155bd891dbe73c7","toSide":"left","color":"4"},
+		{"id":"96a182b8816cf9b6","fromNode":"be03254c5a7185d9","fromSide":"bottom","toNode":"9ea39ddd89efca95","toSide":"right","color":"4"}
+	]
+}

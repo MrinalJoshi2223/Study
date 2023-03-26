@@ -1,3 +1,7 @@
+>[!resources]
+>[[Making a Business praposal]]
+
+
 # Title (Menshioned as cover Page )
 - Mini abstract
 - clear
@@ -22,7 +26,7 @@
 	- what is our requirement
 - should be written in paragraph form 
 - Includes description of the specific business-related problem/issue
-- How th epresent study adress the problem
+- How the present study adress the problem
 - possible benefits and impacts of the study on the issue
 
 # Objectives of the study
