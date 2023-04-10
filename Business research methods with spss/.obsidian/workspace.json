@@ -32,43 +32,19 @@
             }
           },
           {
-            "id": "0520183aed8eabcb",
+            "id": "90bec0e6ef7eedf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class notes/spss/chi square with spss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf4332cac18376b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class notes/spss/One way anova spss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f69ca89307765ae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class notes/Questions.md",
+                "file": "class notes/spss/Two way anova.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class notes/spss/One way anova spss.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class notes/spss/One way anova spss.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class notes/spss/One way anova spss.md"
+                "file": "README.md"
               }
             }
           }
@@ -198,20 +174,21 @@
   },
   "active": "9e33165bd2e2a084",
   "lastOpenFiles": [
-    "images/Pasted image 20230410095123.png",
-    "images/Pasted image 20230410095048.png",
-    "images/Pasted image 20230410095026.png",
-    "images/Pasted image 20230410094914.png",
-    "images/Pasted image 20230410094825.png",
-    "images/Pasted image 20230410094748.png",
-    "images/Pasted image 20230410094638.png",
-    "images/Pasted image 20230410094542.png",
-    "images/Pasted image 20230410094506.png",
+    "images/Pasted image 20230410104835.png",
+    "images/Pasted image 20230410104824.png",
+    "images/Pasted image 20230410104723.png",
+    "images/Pasted image 20230410104603.png",
+    "images/Pasted image 20230410104515.png",
+    "class notes/spss/Spss basic setup.md",
+    "class notes/spss/Two way anova.md",
     "class notes/spss/chi square with spss.md",
     "class notes/spss/One way anova spss.md",
-    "class notes/spss/Spss basic setup.md",
-    "images/Pasted image 20230410093240.png",
-    "images/Pasted image 20230410093036.png",
+    "images/Pasted image 20230410101855.png",
+    "images/Pasted image 20230410101838.png",
+    "images/Pasted image 20230410101823.png",
+    "images/Pasted image 20230410100046.png",
+    "images/Pasted image 20230410095123.png",
+    "images/Pasted image 20230410095048.png",
     "Projects/research praposal video.md",
     "Projects/BRM (measurement scale).md",
     "Projects/project.md",
