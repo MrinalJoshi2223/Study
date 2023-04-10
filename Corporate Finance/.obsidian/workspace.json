@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ce167611353c1ef4",
+        "id": "cd321d00d9a4f23b",
         "type": "tabs",
         "children": [
           {
-            "id": "8cf8e2bc755b0516",
+            "id": "843ea37f959f9050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/03-20-2023.md",
+                "file": "personal notes/Module 2/Index for module 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0773f03ebbb5426f",
+            "id": "419078fe58eb099f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal notes/Introduction to Financial Management.md",
+                "file": "personal notes/Module 2/Compounding.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "484b54a7c1cc9f9f",
+            "id": "e88139ce84ce5640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Notes/02-20-2023.md",
+                "file": "personal notes/Module 1/Function of financial managers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Notes/02-20-2023.md",
+                "file": "personal notes/Module 2/Compounding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Notes/02-20-2023.md",
+                "file": "personal notes/Module 2/Compounding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Notes/02-20-2023.md"
+                "file": "personal notes/Module 2/Compounding.md"
               }
             }
           }
@@ -171,37 +171,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "484b54a7c1cc9f9f",
+  "active": "419078fe58eb099f",
   "lastOpenFiles": [
-    "Class Notes/03-06-2023.md",
-    "Class Notes/03-09-2023.md",
-    "Class Notes/03-13-2023.md",
-    "Class Notes/03-18-2023.md",
-    "Class Notes/03-20-2023.md",
-    "personal notes/Cost of capital.md",
-    "personal notes/Introduction to Financial Management.md",
-    "personal notes/Module 2/Time value of money Index.md",
+    "personal notes/Module 2/Index for module 2.md",
+    "personal notes/Module 1/Function of financial managers.md",
     "personal notes/Module 2/Compounding.md",
+    "personal notes/Module 2/Canvas",
+    "personal notes/Module 1/Index according to the docx and ppt.md",
+    "personal notes/Module 2",
+    "personal notes/Module 1/decission area of fm.md",
+    "personal notes/Module 1/canvas/Profit distribution.canvas",
+    "CF all modules/~$Module 1- CF .pptx",
+    "personal notes/Module 1/Capital Structure.md",
+    "personal notes/Module 1/canvas/function of financial manager.canvas",
+    "personal notes/Module 1/canvas/Organisation of finance.canvas",
+    "Class Notes/raw.md",
+    "personal notes/Module 1/Profit and wealth maximization.md",
+    "personal notes/Module 1/canvas",
+    "personal notes/Module 1/Shareholder wealth maximisation.md",
+    "personal notes/Module 1/Wealth Maximization.md",
+    "personal notes/Module 1/The Pitfalls of Profit Maximization.md",
+    "Class Notes/Module 5/01-04-2023.md",
+    "CF all modules/~$dule 1 .docx",
+    "Class Notes/Module 5/27-03-2023.md",
+    "personal notes/Module 1/raw.md",
+    "personal notes/Module 1/Dividend Decision.md",
+    "personal notes/Module 1/Financial Planning.md",
+    "personal notes/Module 1/Financing Decision.md",
+    "personal notes/Module 1/canvas/Introduction to financial management.md",
+    "personal notes/Module 1/Investment Decisions.md",
+    "Class Notes/operating cycle example.canvas",
+    "Class Notes/03-20-2023.md",
+    "Class Notes/03-18-2023.md",
+    "Class Notes/03-13-2023.md",
+    "Class Notes/03-09-2023.md",
+    "Class Notes/03-06-2023.md",
+    "Class Notes/02-20-2023.md",
+    "Class Notes/Index.md",
+    "syllabus/22PGD202-CF.pdf",
+    "personal notes/Module 1",
+    "CF all modules/Working Capital Study Material.pdf",
+    "CF all modules/Working Capital Requirements problems .docx",
+    "CF all modules/Working Capital Problems .docx",
+    "Untitled 1.canvas",
     "Class Notes/Leverage.canvas",
     "Class Notes/Capital Budgeting Techniques.canvas",
-    "raw.md",
-    "Class Notes/02-20-2023.md",
-    "resources/Time value of money.pdf",
-    "resources",
     "images/index.jpg",
     "Pasted image 20230318101332.png",
     "Pasted image 20230318093942.png",
-    "Class Notes",
-    "projects/mrinal joshi 221028 co-1.docx",
-    "projects",
-    "New folder",
     "images/Pasted image 20230306121150.png",
-    "syllabus/22PGD202-CF.pdf",
-    "syllabus/mso5B42.tmp",
-    "syllabus",
-    "images",
-    "assignments/poster one.md",
-    "Job analysis.md",
     "Job Analysis Process.canvas",
     "Pasted image 20230214114856.png"
   ]

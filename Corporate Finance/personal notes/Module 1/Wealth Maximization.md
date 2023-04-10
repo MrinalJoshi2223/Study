@@ -1,0 +1,5 @@
+- Profit maximization can lead the companies to make wrong decisions by focusing on the short run
+- Wealth maximization changes the orientation of the company from the short term to the long term 
+- in order to maximise the shareholder's value they need to increase there cash flow
+- Cash flow unlike profit cannot be faked
+- [[Shareholder wealth maximisation]]

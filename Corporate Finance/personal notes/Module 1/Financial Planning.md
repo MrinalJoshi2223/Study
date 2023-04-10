@@ -1,0 +1,15 @@
+- it is the process of estimating the requirements of funds by an organisation for its various needs and figuring out the sources of these funds
+- ### Objective of financial Planning
+	- to ensure availability of funds as and when required
+	- to confirm that the funds raised are not in excess
+- ### Importance of financial Planning
+	- It helps in forecasting
+		- it helps in making correc assessment of future financial situations through proper forecasting
+	- It helps in preparing for business shock 
+		- The future uncertainties of business can ruin the prospects of a business
+		- Financial planning keeps the firm well prepared to fave any business shocks
+	- It helps in coordination of various business functions
+		- All the business functions can be properly coordinated as a result of of proper finanvial planning
+	- It avts as a link between present and future
+	- It felps in evaluation of avtual performance
+		- the evaluation of actual performance of a company can be done by its financial plannining

@@ -1,0 +1,2 @@
+- It is a process in which an asset's earnings, from either capital gains or interest are reinvested to generate additional earnings over time
+- 

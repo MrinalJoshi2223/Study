@@ -1,0 +1,31 @@
+- Those assets which remain in business for more than a year are called fixed assets
+- fixed assets of a business firm constitute the fixed capital of a business firm
+- The sourves which finanve fixed capital are known as long-term sources of funds
+- decision related to fixed capital are known as fixed capital decision or capital budgiting decision
+- #### Importance of Fixed Capital Decisions
+	- Long term growth
+		- They affect long term growth of business as ROI comes after a long time
+	- Large amounts of funds involved
+		- for fixed capital decision large amount of capital are needed
+	- Risk Involved
+		- They are re risky in nature
+	- Irreversible decision
+		- if reversed fixed capital decision company incour heavy losses
+- #### Factors affecting requirement of fixed capital
+	- Nature of business
+		- different businesses require different amount of fixed capital
+		- like manufacturing requires more fixed capital than trading
+	- Scale of operation
+		- Large scale business require more fixed capital
+	- Choice of Technique
+		- Capital intensive business require more FC than labour intesive business
+	- Upgradation of technology
+		- business require frequent upgradations of technology requires more fixed capital
+	- Growth prospects
+		- Companies having higher growth prospects require more investment in FC
+	- Diversification
+		- When firms diversifies into new areas they increase there FC investments
+	- Financing alternatives
+		- business can take fixed assets on lease 
+	- Level of collaboration
+		- when business collaborate with other business they can share resources hence reducing there need to invest in fixed assets

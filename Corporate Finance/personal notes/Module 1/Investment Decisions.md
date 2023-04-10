@@ -1,0 +1,10 @@
+- Choice how the raised funds will be invested between short-term and long-term assets
+- Investment decision are of two type :
+	- Long-term investment decisions
+		- also known as Fixed assets decisions or capital budgeting decisions
+	- Short term investment decisions 
+		- aka Working capital management decisions
+- **Factors affecting long term investment decisions** / **The Investment criteria for long term investment decisions**
+	- #### Cash flows of the project
+	- #### ROI (Rate of return) 
+	- #### The investment criteria involved

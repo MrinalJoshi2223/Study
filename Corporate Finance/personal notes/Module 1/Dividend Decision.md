@@ -1,0 +1,32 @@
+- The part of profit which is distributed by the company to its shareholders is known as dividend
+- for understanding profit distribution :
+	- ![[Profit distribution.canvas]]
+- Decision of how much should be the dicidend and how much should be retained is known as *dividend decision*
+- Factors affecting dividend decision
+	- Amount of earnings
+		- dividends are dependent on the amount of earnings
+	- Stability of earnings
+		- stable trend in payment of dividend has a good impact on share prices
+	- Growth opprtunities
+		- Companies having high growth opportunities tend to avoid paying high dividends 
+		- they invest there retained earnings
+	- Cashflow position
+		- to give dividends a company should have good cash flow (or in other words have decent amount of cash)
+	- Shareholders preference
+		- 2 type of shareholders
+			- wants fixed returns
+			- ok to bear risk and make more money
+	- Taxation Policy 
+		- If tax on divident is hugh caompanies tend to pay lower dividend and vice versa
+	- Stock market reaction
+		- Increased dividends have positive reaction on stock market and vice versa
+	- Access to capital market
+		- Large credit-worthy companies have easy access to the capital market in terms of rasing funds
+		- ![[personal notes/Module 1/raw#^creditworthy]]
+		- These companies can keep less retained earnings and pay a higher dividend to strengthen the market price of there shares
+	- Legal Constraints
+		- Payment of dividend is connected with a large number of shareholders it should be done within the leagal framework and transparency
+	- Contractual constraints
+		- loan providing bodies ensure through contractual agreements
+		- the borrowing company will be restricted in payment of dividends because of the agreements
+		- this provide financial protection to the lenders

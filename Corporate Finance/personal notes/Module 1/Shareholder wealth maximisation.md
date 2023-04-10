@@ -1,0 +1,18 @@
+- it has faced a lot of critisism
+	- shareholders are given more priority over other stake holder
+	- object of a cor. should be stakeholder welth maximisation rather than shareholders
+- the policy of shaterholders doesn't necessory conflict with the stakeholder's policy 
+- welth created for
+	- stakeholder - optimised
+	- shareholder - maximised
+		- cuostumer value 
+			- maixised
+				- by giving product for free
+				- by paying t o use there prduct
+				- not sustainable for long run
+			- employees value
+				- to maximise
+					- give huge some of money to all there employes
+					- this make it unsustaniable as the labour cost will go through the roof
+		- it is impossible to maximised the stkeholders value
+		- so we need to obtimised it 

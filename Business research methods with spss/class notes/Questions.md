@@ -15,6 +15,8 @@
 
 
 # uniformity
+- one of the most important attribute for a research is uniform and standardization
+- it means every respondent should get same question
 
 
 # Exploratory

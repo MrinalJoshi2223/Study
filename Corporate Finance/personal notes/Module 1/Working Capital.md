@@ -1,0 +1,27 @@
+- The capital needed by a business fiem to meet its day to day operations is known as its working capital
+- these assets which makes working capital are known as short term assets or current assets
+- ![[personal notes/Module 1/raw#^currentassets]]
+- #### Factors affecting working capital requirements
+	- Nature of business
+		- Manufacturing firms have more WC than trading firms
+	- Scale of operations
+		- Higher the scale of operations more is the WC required
+	- Business cycle
+		- More during recovery and boom
+		- less during recession and depression
+	- Seasonal factors
+		- more WC during the peak season
+	- Production cycle
+		- products with longer production cycle need more WC 
+	- Credit availed
+		- in this situtation less WC is needed
+	- Credit allowed
+		- in this more WC is required
+	- Availability of raw material
+		- if raw material is easily available less WC is required otherwise more
+	- Growth prospects
+		- Higher chance of growth more WC is required
+	- Level of competition
+		- Higher competition more WC required
+	- Inflation
+		- during inflation WC is also increased

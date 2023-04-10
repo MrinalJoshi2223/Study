@@ -1,0 +1,46 @@
+- Capital Structure is the proprtion of debt and equity in raising funds for doing business
+- funds can be rasied by 
+	- owners funds or Equity
+	- Borrwoed funds or Debt
+- the combinatation of this that a company have is called the capital structure
+- ### Factors affecting Capital Structure
+	- Interest coverage ratio (ICR)
+		- It is the number of times earning before Interest and tax can cover the interest on debt taken by a firm 
+		- It indecates the firm's ability to serve the interest on debt taken
+		- **ICR =** *Earning before Interest and tax / Interest*
+	- Debt service coverage ratio (DSCR)
+		- **DSCR =** *Profit after tax+ Deperciation + Interest + Non-cash Expenes Preference Dividend + Interest + Repayment Obligation*
+		- DSCT indicates ability of a firm to service its Debt
+		- It is a better indicator than ICR 
+	- Cash flow position
+		- Debt should be taken only if the cash flow position of the company is good
+	- Cost of Debt
+		- Debt can be taken if the intrest rate is less
+	- Cost of Equity
+		- Cost of equity becomes high in case bebt is taken beyond a level
+		- because the burdern of debt falles on equity shareholders as they are the owners of the company
+	- Capital Structure of other companies
+		- A business firm may observe the capital structure of other companies in the same industries
+		- they should create there capital structure based on there own strength and weaknesses
+	- Return on Investment
+		- When the return on investment is greater than the rate of Interest they should take debt to increase there earning per share (EPS)
+	- Tax rate
+		- With increase in tax debt become cheper
+		- because of tax deduction
+	- Stock market conditions
+		- bullish -> equity is preferable
+		- Bearish -> Debt is better choice
+	- Floatation costs:
+		- ![[personal notes/Module 1/raw#^floatationcost]]
+		- The costs of raising debt and equity are different
+		- The higher floation cost of the option makes it more costlier
+	- Control considerations 
+		- Too much of issuing of Equity may result in loss of control of management over the company
+	- Regulatory framework
+		- In order to raise funds, company should stay withing the legal framewirk set by bodies like SEBI and RBI
+	- Flexibility
+		- A company has limited sources where it can get debt
+		- one it exhausts all the sources it loose all the flexibility to arrange further Debt
+	- Risk Consideration
+		- Debt is riskier though it is cheaper
+		- the firm has to repay the intrest with the principal amount

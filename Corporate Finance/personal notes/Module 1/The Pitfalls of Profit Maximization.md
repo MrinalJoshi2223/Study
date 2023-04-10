@@ -1,0 +1,10 @@
+- Profit is calculated on a quaterly or an annual basis
+- This is the reason that profit maximization cannot be and should not be the objective of any business
+- Profit maximization makes the organization short sighted
+- ![[personal notes/Module 1/raw#^shortsitedness]]
+- **ways to change the profit** *(not good)*
+	- **unethical ways of increasing profit maximisation**
+		- company can use unethical ways to increase profits
+		- ex, they can give lower salary to its employees as compare to its peers this can improve its profitability numbers in the short run but it will distroy its reputation and they will have harder time finding a good talent
+	- Compaines can change their profit number by making changes to their accounting policy insted of improving the operation of company
+	- profits can be artificially inflated in the short run by making credit sales, a lot of which might end up being bad debts in the long run

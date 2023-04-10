@@ -19,7 +19,7 @@
 		{"type":"text","text":"- open ended closed ende","id":"2f89b110fb048568","x":-504,"y":-149,"width":324,"height":60,"color":"4"},
 		{"type":"text","text":"- What is the utility of the data collected\n- wethere the question will get the preferred data \n- can the respindent answer the question accurately\n- Is the respondent willin to answer accurately\n\t- ask indirectly\n- What is the chance of the responses being influenced by external events","id":"75951e4069285816","x":-504,"y":400,"width":324,"height":360,"color":"1"},
 		{"type":"text","text":"### The Respondent's willingness to answer Accurately\n- questions the participants can't answer ask indirectly\n- don't make assumption\n- keep is simple","id":"5721427857700a2f","x":-504,"y":780,"width":324,"height":280,"color":"1"},
-		{"type":"text","text":"### Criterial for qusetion selection\n- population characteristics\n\t- language","id":"b81a27ffe9d9c614","x":-504,"y":1080,"width":324,"height":180,"color":"1"},
+		{"type":"text","text":"### Criterial for question selection\n- population characteristics\n\t- language","id":"b81a27ffe9d9c614","x":-504,"y":1080,"width":324,"height":180,"color":"1"},
 		{"type":"text","text":"### Response format\n- open-ended\n\t- free response\n\t\t- question will be specific and direct\n\t- probing\n\t\t- question from which you gain more information \n\t\t- example : Interview question\n\t- !(Projective)[[Projective.canvas]]\n\t\t- vague question to project a person's attitudes\n\t\t- qualitative data will be gotten from this\n- close-ended","id":"27679182d255e015","x":-504,"y":1280,"width":324,"height":540,"color":"1"},
 		{"type":"text","text":"Decide on the type of question","id":"38601278bd14dd93","x":0,"y":-265,"width":250,"height":60}
 	],

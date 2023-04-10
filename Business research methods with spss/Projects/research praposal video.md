@@ -38,4 +38,4 @@
 - #### Student
 	- Do you think the shere number of educational content on the social media is a hindrense for the students?
 	- How do you tackle the fake information spread around the social media
-	- Is the online eduacational 
+	- which mode of education online or offline do you preffer

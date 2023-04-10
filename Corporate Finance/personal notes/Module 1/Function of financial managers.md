@@ -1,0 +1,15 @@
+- ![[function of financial manager.canvas]]
+- Layers of financial executive
+	- Assistant manager (Finance)
+	- Deputy manager (Finance)
+	- General manager (Finance)
+	- CFO - Chief financial manager
+		- under supervision of CFO
+			- Treasurer 
+			- controller
+	- Vice president (Finance)
+	- Financial controller
+	- General manager (Finance)
+	- Finance officer
+- Organisation of finance
+	- ![[Organisation of finance.canvas]]

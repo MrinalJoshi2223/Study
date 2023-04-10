@@ -1,0 +1,7 @@
+1) [[Introduction to financial management]]
+2) [[Financial Planning]]
+3) [[Capital Structure]]
+4) [[Fixed Capital]]
+5) [[Working Capital]]
+6) [[Profit and wealth maximization]]
+7) [[Function of financial managers]]

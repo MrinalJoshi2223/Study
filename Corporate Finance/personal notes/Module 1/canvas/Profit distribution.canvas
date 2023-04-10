@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"0513402f307735d3","x":-183,"y":-330,"width":163,"height":60,"type":"text","text":"PBIT - Intrest "},
+		{"id":"bee7a0e675e028f4","x":-560,"y":-330,"width":320,"height":60,"color":"4","type":"text","text":"PBIT (Profit Before Interest and Tax)"},
+		{"id":"6778c2c08e45943c","x":20,"y":-200,"width":180,"height":60,"color":"4","type":"text","text":"Profit Before Tax"},
+		{"id":"aa3945dfe3948a3b","x":40,"y":-330,"width":250,"height":60,"color":"4","type":"text","text":"Intrest"},
+		{"id":"3375ec0dddb8a418","x":75,"y":-740,"width":90,"height":60,"color":"4","type":"text","text":"Note"},
+		{"id":"4be96f38a9a517f6","x":25,"y":-660,"width":50,"height":60,"type":"text","text":""},
+		{"id":"49117ba0832c5a49","x":165,"y":-660,"width":54,"height":60,"type":"text","text":""},
+		{"id":"0d376de154a0e5b0","x":250,"y":-660,"width":160,"height":60,"type":"text","text":"Arrow means ="},
+		{"id":"87b5e8910d71680d","x":56,"y":-560,"width":128,"height":60,"type":"text","text":"Formulas"},
+		{"id":"a43f27100586575b","x":-144,"y":-200,"width":86,"height":60,"type":"text","text":"PBT"},
+		{"type":"text","text":"PBT - tax","id":"4157f2312a299530","x":-163,"y":20,"width":124,"height":60},
+		{"id":"8bc8aaef4488779f","x":30,"y":162,"width":160,"height":60,"color":"4","type":"text","text":"Profit after tax"},
+		{"id":"293fc8ae49e5d137","x":-560,"y":-60,"width":850,"height":50,"type":"text","text":"---"},
+		{"type":"text","text":"---","id":"34bdf79e7d57311d","x":-560,"y":280,"width":850,"height":50},
+		{"id":"f5109443311e30b4","x":-146,"y":160,"width":91,"height":60,"type":"text","text":"PAT"},
+		{"type":"text","text":"PAT / no. of shares","id":"7fe7474410a1ddef","x":-194,"y":380,"width":186,"height":60},
+		{"id":"7c3e4ee55154aaad","x":-146,"y":520,"width":90,"height":60,"type":"text","text":"EPS"},
+		{"id":"3a2b07b1998c5065","x":-15,"y":520,"width":205,"height":60,"color":"4","type":"text","text":"Earning per share"},
+		{"type":"text","text":"","id":"ec63e278b4a19486","x":95,"y":-941,"width":50,"height":60,"color":"1"},
+		{"id":"db1ce9cd885ac2c8","x":-83,"y":-881,"width":50,"height":60,"type":"text","text":""},
+		{"type":"text","text":"","id":"96164e5f326e1008","x":95,"y":-821,"width":50,"height":60,"color":"1"},
+		{"id":"e565a30d5cdfcbeb","x":192,"y":-881,"width":250,"height":60,"type":"text","text":"classification or parts"},
+		{"id":"5c12fb3eb9cfdc29","x":-360,"y":708,"width":136,"height":60,"color":"1","type":"text","text":"Dividend"},
+		{"id":"f6317f38df9b3583","x":-15,"y":708,"width":192,"height":60,"color":"1","type":"text","text":"Retained Earnings"}
+	],
+	"edges":[
+		{"id":"1a4872aeb578b03c","fromNode":"0513402f307735d3","fromSide":"bottom","toNode":"a43f27100586575b","toSide":"top"},
+		{"id":"bb6c0fcf890dec24","fromNode":"4be96f38a9a517f6","fromSide":"right","toNode":"49117ba0832c5a49","toSide":"left"},
+		{"id":"543a68780f556309","fromNode":"4157f2312a299530","fromSide":"bottom","toNode":"f5109443311e30b4","toSide":"top"},
+		{"id":"b99bca727d9acdc3","fromNode":"7fe7474410a1ddef","fromSide":"bottom","toNode":"7c3e4ee55154aaad","toSide":"top"},
+		{"id":"3315b2179988e332","fromNode":"db1ce9cd885ac2c8","fromSide":"right","toNode":"ec63e278b4a19486","toSide":"left","color":"1"},
+		{"id":"93613f4032ea7854","fromNode":"db1ce9cd885ac2c8","fromSide":"right","toNode":"96164e5f326e1008","toSide":"left","color":"1"},
+		{"id":"5dc9547f63d78095","fromNode":"7c3e4ee55154aaad","fromSide":"bottom","toNode":"5c12fb3eb9cfdc29","toSide":"top","color":"1"},
+		{"id":"83e8e8b873cabad1","fromNode":"7c3e4ee55154aaad","fromSide":"bottom","toNode":"f6317f38df9b3583","toSide":"top","color":"1"}
+	]
+}

@@ -1,0 +1,36 @@
+- The decision which involve the choice how the funds will be raised from various sources and sumultaneous cost analysis of these sources of funds
+- sources are
+	- Shareholders' or Owners' funds
+		- Equity capital
+		- retained earnings
+	- Borrowed funds:
+		- Debentures 
+		- loans
+		- other forms of debts
+- Factors affecting financing decisions and what should be preferred
+	- Cost
+		- Cheapest source of finance 
+		- debt is generally cheaper than equity
+	- Risk
+		- Source involving less risk should be preferred
+		- Equity is less risk than debt
+	- Floatation cost
+		- A source which has a high floatation cost
+		- Equity has high floatation cost
+		- ![[personal notes/Module 1/raw#^floatationcost]]
+	- Cash flow position
+		- The source of funds should also depend on tha cash flow position of the firm
+		- Company with healthy cash flow can go for debe as it can bear the fixed financial cost of interest on debt
+		- ![[personal notes/Module 1/raw#^cashposition]]
+	- Fixed operating cost
+		- A company with high fixed operating cost has high business risk
+		- if such firm goes for debt as source it will add on financial risk
+	- Control considerations
+		- A company having control considerations should go for debt as a sourve of finance
+	- State of capital Market 
+		- When capital market is bullish or active it is a good time for issuing equity in order to have good response from the investors
+			- ![[personal notes/Module 1/raw#^Bullishmarket]]
+		- on the other hand if the capital markte is bearish or sluggish it is better not to issue equity
+			- ![[personal notes/Module 1/raw#^bearishmarket]]
+
+

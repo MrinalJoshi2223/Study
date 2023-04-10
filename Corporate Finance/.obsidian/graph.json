@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Class Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"personal notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 2.23329268292683,
+  "lineSizeMultiplier": 3.09378048780488,
+  "collapse-forces": false,
+  "centerStrength": 0.339285714285714,
+  "repelStrength": 11.0714285714286,
+  "linkStrength": 0.720238095238095,
+  "linkDistance": 189,
+  "scale": 0.9102385647599025,
+  "close": false
+}

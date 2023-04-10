@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"00abc6d7a54ff8d6","x":-453,"y":-313,"width":250,"height":60,"type":"text","text":"# Example"},
+		{"id":"85e2fc3b6fe1539f","x":-295,"y":-220,"width":250,"height":60,"type":"text","text":"Cash\n1000"},
+		{"id":"6c2144510808e272","x":20,"y":-131,"width":250,"height":60,"type":"text","text":"RM"},
+		{"id":"984509b7a630bacc","x":-105,"y":89,"width":250,"height":60,"type":"text","text":"WIP"},
+		{"id":"a3c989be0f3c98c9","x":-295,"y":240,"width":250,"height":60,"type":"text","text":"FG"},
+		{"id":"b23d7dd2db0cb82b","x":-520,"y":89,"width":250,"height":60,"type":"text","text":"Sales"},
+		{"id":"9c5a47734aee08d7","x":-645,"y":-101,"width":250,"height":60,"type":"text","text":"AKREC"}
+	],
+	"edges":[
+		{"id":"f89a1b4dbcec69c0","fromNode":"85e2fc3b6fe1539f","fromSide":"right","toNode":"6c2144510808e272","toSide":"top"},
+		{"id":"a04c74718ba864e6","fromNode":"6c2144510808e272","fromSide":"bottom","toNode":"984509b7a630bacc","toSide":"right"},
+		{"id":"9154038f20a4fb7f","fromNode":"984509b7a630bacc","fromSide":"bottom","toNode":"a3c989be0f3c98c9","toSide":"right"},
+		{"id":"a2b391c2f19d6b99","fromNode":"a3c989be0f3c98c9","fromSide":"left","toNode":"b23d7dd2db0cb82b","toSide":"bottom"},
+		{"id":"cbe6ffa5ef3fe866","fromNode":"9c5a47734aee08d7","fromSide":"top","toNode":"85e2fc3b6fe1539f","toSide":"left"},
+		{"id":"0546f3d78f1a4fc9","fromNode":"b23d7dd2db0cb82b","fromSide":"left","toNode":"9c5a47734aee08d7","toSide":"bottom"}
+	]
+}

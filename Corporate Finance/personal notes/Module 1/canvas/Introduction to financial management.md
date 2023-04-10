@@ -1,0 +1,14 @@
+# The Role of financial management
+- Size and composition of fixed assets
+- size and composition of current assets
+- ##### Financing decisions 
+	- *Important need of it :-*
+		- Amount of debt or equity to be used
+		- amount of long term funds or short term funds to be used for financing 
+	- FInancial Decision are taken under financial management
+	- they deal with raising and investing of funds and distribution of profit earned among the stakeholders
+	- **Financial Decision are of three types :-**
+		- ##### [[Investment Decisions]]
+		- ##### [[Financing Decision]]
+		- ##### [[Dividend Decision]]
+- All items in the profit and loss account
